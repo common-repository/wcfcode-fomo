@@ -1,0 +1,33 @@
+.navbar-expand-sm {
+margin-left:-20px;
+}
+button.btn.btn-primary.rounded-pill{
+    float: right;
+    margin-right: 60px;
+    margin-bottom: 3px;
+    margin-top: -30px;	
+}
+tr.table_wcf {
+    background: lightblue;
+}
+.wcf-logo{
+	margin-top: 2em;
+    width: 227px;
+}
+.account{
+    background:lightgrey;
+}
+.form-row{
+    max-width: 50%;
+}
+#Submit{
+    text-align: center;
+    width: 100% !important;
+    margin-top: 20px;
+
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
